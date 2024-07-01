@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Eid Hachem",
 	"description": "This is nodejs tutorial from freecodecamp",
-	"keywords": ["Test", "Keywords"],
+	"keywords": ["Test", "Keywords", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
